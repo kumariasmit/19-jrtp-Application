@@ -12,7 +12,8 @@ public class PasswOrdUtill {
 	}
 
 	public void decode() {
-
+		System.out.println("bug101");
+		System.out.println(" bug201");
 
 	}
 
