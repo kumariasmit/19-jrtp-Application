@@ -7,14 +7,12 @@ public class PasswOrdUtill {
 	}
 
 	public void encode() {
-		System.out.println("Helllo bug1");
-		System.out.println("Helllo bug2");
+		System.out.println("encoding the password");
+		
 	}
 
 	public void decode() {
-		System.out.println("bug101");
-		System.out.println(" bug201");
-
-	}
+		System.out.println("decoding the password");
+			}
 
 }
