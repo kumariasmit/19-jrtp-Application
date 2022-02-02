@@ -6,12 +6,12 @@ public class PasswOrdUtill {
 		System.out.println("Hello");
 	}
 
-	public void encode() {
+	public void encode(String str) {
 		System.out.println("encoding the password");
 		
 	}
 
-	public void decode() {
+	public void decode(String Str) {
 		System.out.println("decoding the password");
 			}
 
